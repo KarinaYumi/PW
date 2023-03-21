@@ -9,3 +9,9 @@ children - traz o elemento abaixo dele(quando se fala na hierarquia do código)
 parent - traz o elemento acima(quando se fala na hierarquia do código)
 
 textContent - pega o conteúdo 
+
+----PESQUISA----
+
+Pesquisar os principais eventos de interação com o usuário. ()
+
+Criar uma página pra cada evento(com descrição e exemplo do evento)
