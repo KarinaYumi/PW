@@ -1,6 +1,11 @@
 ANOTAÇÕES PW
 
 query.selector - retorna algo específico
+
 query.selectorAll - Retorna um conjunto(da página inteira)
+
 children - traz o elemento abaixo dele(quando se fala na hierarquia do código)
+
 parent - traz o elemento acima(quando se fala na hierarquia do código)
+
+textContent - pega o conteúdo 
